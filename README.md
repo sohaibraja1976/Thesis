@@ -1,4 +1,4 @@
-APPENDIX B: SYSTEMATIC LITERATURE REVIEW (S2)
+**APPENDIX B: SYSTEMATIC LITERATURE REVIEW (S2)**
 
 Protocol for Systematic Review, Extraction of Data and Bibliography
 
