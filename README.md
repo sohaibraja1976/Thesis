@@ -1,5 +1,2 @@
 # Thesis
-vh  h
-hh jjbjhbhjb
-
-ggg
+Go to Wiki tab to access document links
