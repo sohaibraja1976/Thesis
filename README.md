@@ -1,2 +1,2 @@
 # Thesis
-Go to Wiki tab to access document links
+Go to Wiki tab > Appendix to access document links
