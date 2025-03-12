@@ -1,4 +1,4 @@
-**APPENDIX C: OBSERVATIONAL STUDY WITH JIRA SERVICE DESK TEAM (S3)
+**APPENDIX C: OBSERVATIONAL STUDY WITH JIRA SERVICE DESK TEAM (S3)**
 
 URL of original HTML file containing archival data of conversation comprising of threads of emails about a reported bug: https://getsupport.atlassian.com/servicedesk/customer/portal/23/JST-570550
 
@@ -14,7 +14,7 @@ URL for a support ticket to report a bug.
 
 http://support.atlassian.com/contact/#/
 
-**APPENDIX D: OBSERVATIONAL STUDY CONDUCTED AT SYSLAB SDN BHD (S4)
+**APPENDIX D: OBSERVATIONAL STUDY CONDUCTED AT SYSLAB SDN BHD (S4)**
 
 This appendix contains the data collected in input form and a case study of Riding Pink, an E-Hailing Project which is analyzed based on observation data obtained about DM and BP tasks at Syslab Sdn Bhd. The information is further structured into broad categories and sub-categories according to the data collected.
 
@@ -30,9 +30,9 @@ Or
 
 https://docs.google.com/document/d/14ojnARr3B0FhA1GF87uHXJm8YbPidodC/edit?usp=sharing&ouid=115773311318640347599&rtpof=true&sd=true
 
-**APPENDIX E: OTHERS (DATA COLLECTION AND VALIDATION) (S5-S9)
+**APPENDIX E: OTHERS (DATA COLLECTION AND VALIDATION) (S5-S9)**
 
-**A. Identification of DM Concepts from Studies on DM (Chapter 2)
+**A. Identification of DM Concepts from Studies on DM (Chapter 2)**
 
 In Chapter 2, section 4.2, various factors are identified from different studies conducted on DMP and DMF.           illustrates the factors and describes their impact on DM. The first column illustrates the main categories whereas the second column describes a summary of these factors that are classified under the main category, their impact on DM, and the design of DMF. Error! Reference source not found.2 illustrates the categorization process in which main categories and sub-categories are identified. 
 
@@ -42,7 +42,7 @@ https://drive.google.com/drive/folders/14uC8Nm7xg9vt4i20lGoxspwIGV9gg00w?usp=sha
  Or
 https://docs.google.com/document/d/13oNKtNNu6Mdi41PGdtuhHbV6yJ5aV5LP/edit?usp=sharing&ouid=115773311318640347599&rtpof=true&sd=true
 
-**B. Data Collected, and Queries used for Ex Post Facto Method (Chapters 3)
+**B. Data Collected, and Queries used for Ex Post Facto Method (Chapters 3)**
 
 The below URLs contain data extraction form in Tables E.3 and E.4. Data is collected from Mozilla, Atlassian and Eclipse corporations for quantitative analysis, while two bug reports from Atlassian and Eclipse are selected for qualitative analysis.
 
@@ -51,20 +51,20 @@ Or
 https://docs.google.com/document/d/15Fh6oalFoQZtRXWRA7c1U7dPz34ejIJ5/edit?usp=sharing&ouid=115773311318640347599&rtpof=true&sd=true
 
 
-**C. The below URLs contain a protocol for developing DMF using grounded theory: Figure 3.12 explains the process of categorization whereas Table E.5 illustrates it (Chapter 4)
+**C. The below URLs contain a protocol for developing DMF using grounded theory: Figure 3.12 explains the process of categorization whereas Table E.5 illustrates it (Chapter 4)**
 
 https://drive.google.com/drive/folders/15KK4qAABhgl6jqFXXxdl4_np-5zAhe8y?usp=sharing
 Or
 https://docs.google.com/document/d/15MlE4yewCsRdHKF55E42wEtzFXAKKA7H/edit?usp=sharing&ouid=115773311318640347599&rtpof=true&sd=true
 
 
-**D. Validation
+**D. Validation**
 The below URLs contain a folder for (data collection, scripts, presentations, verification, and findings) results obtained from Interviews for building DMF and feedback from validation with Interviews and Focus Groups (Chapter 5 and Chapter 7)
 https://drive.google.com/drive/folders/13iSDqt0cWp5TCsJxhbsVA5L7k6AiPM6-?usp=sharing
 
-**E. Industrial Data Sets (Qualitative and Quantitative Data)
+**E. Industrial Data Sets (Qualitative and Quantitative Data)**
 
-**Quantitative Data: Jira and Bugzilla BTS are used to access quantitative data. Plenty of bug reports are used, some are mentioned below.
+**Quantitative Data: Jira and Bugzilla BTS are used to access quantitative data. Plenty of bug reports are used, some are mentioned below.**
 
 Bug Reports Used from JIRA BTS: https://jira.atlassian.com/browse/JRACLOUD-72947
 JRACLOUD-72947, JSWCLOUD-20625, JRACLOUD-72655, JSDCLOUD8330, JSWCLOUD-20625, JSWCLOUD-18715, CONFSERVER-66567, CONFSERVER-66567, JRASERVER-72836, CONFSERVER-73384, CONFCLOUD-72861,  CONFSERVER-66547, JWMCLOUD-105, SRCTREEWIN-13863, BCLOUD-19548; CONFCLOUD-73781; CONFSERVER-66547: JRACLOUD-77460: BAM-21778; JRASERVER-73435; CONFSERVER-79118; SRCTREEWIN-13863; OPSGENIE-396
@@ -81,22 +81,22 @@ Eclipse’s Bugzilla BTS:  https://bugs.eclipse.org/bugs/show_bug.cgi?id=270754,
 Moodle Tracker. https://tracker.moodle.org/projects/MDLSITE/issues/MDLSITE-5494 
 MDLSITE-5494, MDLSITE-4617, MDLSITE-3820, 
 
-**Selected Jira Bug Report for Illustrative Approach I which Retrospective is Conducted
+**Selected Jira Bug Report for Illustrative Approach I which Retrospective is Conducted**
 Bitbucket Cloud: BCLOUD-19548, JIRA Bug Tracking System. [Online]. Available: https://jira.atlassian.com/browse/BCLOUD-19548 [Accessed: 02-Dec-2022].   
 
-**Qualitative Data: Data collected from Various Software Corporations
+**Qualitative Data: Data collected from Various Software Corporations**
 I. Online sources to obtain qualitative data of past bug reports from software corporations. These sources prescribe policies and guidelines about BP tasks (Apache Software Foundation, 2023; Atlassian, 2023; Atlassian Bug Fix Policy, 2023; Atlassian Priority Policy, 2023; Atlassian Workflow, 2021; Mozilla Priority and Bug Policy, 2023; Mozilla Triage and Priority Guide, 2023; Mozilla Triage for Bugzilla, 2023).
 
 II. To obtain qualitative data from the “New Defect Management Policy v0.3” of the the National Health Service (NHS), UK
 
-Other Industrial Datasets:
+**Other Industrial Datasets:**
 The below URLs contain other industrial data sets (Qualitative and Quantitative Data) for analyzing different aspects 
 https://drive.google.com/drive/folders/16SPd3Mx5lZHzsQ_QFYgaOf3adwMZg_fF?usp=sharing
 Or
 https://docs.google.com/document/d/16U-czAlydSQXIXpKXEKehLwFJgHfQgNG/edit?usp=sharing&ouid=115773311318640347599&rtpof=true&sd=true
 
 
-**APPENDIX F: MY RESEARCH PUBLICATIONS
+**APPENDIX F: MY RESEARCH PUBLICATIONS**
 
 1. Raja, S. A., Aziz, M. S. A., Alsolbi, I., & Ghaffar, A. (2024). Development of Taxonomy for Addressing Decision-Related Challenges of Bug Prioritization and its Use for Scrum Retrospective.
 
